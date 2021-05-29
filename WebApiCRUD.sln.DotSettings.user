@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b26cf80_002D1220_002D4911_002D8402_002D491ab0999b51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAll(method: &amp;quot;GET&amp;quot;)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::17E234E5-81B9-410F-A8B8-909FBEBA55CF::.NETCoreApp,Version=v3.1::ApiUnitTest.CustomerTest.GetAll.GetAll(method: "GET")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0eaf6729_002D9687_002D4c37_002D9e7f_002D2b6697655661/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UpdateCustomer" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::17E234E5-81B9-410F-A8B8-909FBEBA55CF::.NETCoreApp,Version=v3.1::ApiUnitTest.CustomerTest.UpdateCustomer&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a9bc9d4c_002D8aff_002D4c5a_002Daadd_002Dddfbd657617a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetById" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::17E234E5-81B9-410F-A8B8-909FBEBA55CF::.NETCoreApp,Version=v3.1::ApiUnitTest.CustomerTest.GetById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
